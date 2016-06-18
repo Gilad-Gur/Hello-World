@@ -1,4 +1,4 @@
-Hello, my name is Gilad Gur, I'm 29 years old and I'm a computer science student in the Open University.
+Hello, my name is Gilad Gur, I'm 29 years old and I study computer science in the Open University.
 I'm also a musician and bassist and have been for 13 years. 
 My passion is to discover new and interesting ideas and stories everyday.
 Recently I started programming and writing code (mostly Java) and fell in love with it. The idea that writing a computer program to make the human life easier and more convinient or even to save lifes by it fascinates me.
